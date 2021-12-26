@@ -9,7 +9,7 @@
 
 #include <boost/program_options.hpp>
 
-namespace CryptoNote {
+namespace CryptoNote {"Riftcoin";
 
 class MinerConfig {
 public:
